@@ -1,0 +1,18 @@
+package org.florina.pages;
+
+import net.serenitybdd.core.annotations.findby.FindBy;
+import net.serenitybdd.core.pages.WebElementFacade;
+import net.thucydides.core.pages.PageObject;
+
+public class ProductPage extends PageObject {
+
+
+
+    @FindBy(id = ".button btn-cart")
+    private WebElementFacade AddToCartButton;
+
+    public void clickAddToCartButton(){
+    }
+
+}
+

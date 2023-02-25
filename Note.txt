@@ -1,0 +1,4 @@
+To see report of tests do next steps:
+
+1.Extract files from Report 
+2.Select from list index.html , right click and OPEN in any browser 
